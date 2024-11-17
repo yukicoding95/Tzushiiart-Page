@@ -1,0 +1,79 @@
+body {
+    color: black;
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: palegreen;
+    border-bottom: 50%;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    text-align: center;
+    padding: 16px;
+}
+main section h3{
+    display: flex;
+    text-align: center;
+}
+
+main section h2{
+    display: flex;
+    text-align: center;
+}
+
+a{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.content{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+footer img{
+    width: 20px;
+    height: 20px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+footer a{
+    text-align: center;
+}
+
+.container{
+    padding: 0px 50px;
+}
+
+nav a:hover{
+    color: palegreen;
+}
+
+
+
+
